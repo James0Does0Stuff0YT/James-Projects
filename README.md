@@ -12,3 +12,5 @@ I fixed a bug where whenever you got above 200 you could not win!!
 I added a quit game feature and made the code work a little bit better!
 ## Alpha 0.6(Major Update):
 The name has been changed to James Coin Clicker, and you now click a button with a James Coin on it, You can also now change your resolution with the new resolution buttons, and there is Discord presence currently being tested!
+## Alpha 0.6.1:
+I did some bug fixes and added a message at the bottom!

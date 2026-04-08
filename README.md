@@ -22,3 +22,5 @@
 > Removed Discord Rich Presence because it kept breaking the game when I was doing testing, and I made the win conditions 2,000 James Coins instead of 1,000!
 > ## Alpha 0.7.2:
 > I added a custom icon for the game!
+> ## Release 1.0:
+> Full release plus some minor things like "James Coins:" next to the James Coin Counter after the start code!
